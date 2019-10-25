@@ -11,7 +11,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: El arte del sushi
+  subtitle: '**Elaboración artesanal**'
   title: Evento Sushi
 sections:
   - background_style: style1
