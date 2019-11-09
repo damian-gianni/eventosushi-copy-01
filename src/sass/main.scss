@@ -22,8 +22,8 @@ $size: (
 
 // Font.
 $font: (
-    family:				('Open Sans', Helvetica, sans-serif),
-    family-fixed:		('Courier New', monospace),
+    family:				('K2D', Helvetica, sans-serif),
+    family-fixed:		('K2D', monospace),
     weight:				400,
     weight-bold:		600,
     weight-extrabold:	800
@@ -124,7 +124,7 @@ $palette: (
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import 'font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
+@import url('https://fonts.googleapis.com/css?family=K2D&display=swap');
 
 /*
 	Spectral by Pixelarity
