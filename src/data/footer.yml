@@ -1,21 +1,15 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+  - icon: fa-whatsapp
+    title: Whatsapp
+    url: 'https://api.whatsapp.com/send?phone=5491169645188'
+  - icon: fa-facebook
+    title: Facebook
+    url: 'https://www.facebook.com/Eventosushi2019/'
+  - icon: fa-instagram
+    title: Instagram
+    url: 'https://instagram.com/eventosushi'
+copyright: '&copy; Evento Sushi'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
